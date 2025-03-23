@@ -1,5 +1,4 @@
-# PCAP-Analysis-Automation-Lab-Security-Onion-
-# PCAP Analysis Automation Lab with Security Onion
+# PCAP Analysis Lab with Security Onion
 
 ## Overview
 The **PCAP Analysis Automation Lab** is designed to streamline the process of importing, analyzing, and reporting on network traffic captures (PCAPs) using **Security Onion**. The objective of this project is to leverage **Security Onion’s** powerful suite of tools to detect and investigate potential malware activity, generate comprehensive reports, and visualize findings on interactive dashboards.
