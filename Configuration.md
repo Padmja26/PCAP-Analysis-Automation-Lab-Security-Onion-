@@ -125,9 +125,8 @@ After importing a PCAP file, Security Onion automatically processes the data and
   ![Screenshot from 2025-03-22 19-32-26](https://github.com/user-attachments/assets/6899f052-7ad3-475e-a7c3-27630f4679f5)
   ![Screenshot from 2025-03-22 19-32-32](https://github.com/user-attachments/assets/7f1c27a5-17a5-4d57-b891-359b0bd6fdfe)
 
-  **Kibana Report Example**
 
-We can aldo create diffrent cases in order to indentify certain alerts more efficiently.
+We can also create diffrent cases in order to indentify certain alerts more efficiently.
 
 Using these tools, analysts can correlate threats, identify suspicious patterns, and take appropriate action.  
 
