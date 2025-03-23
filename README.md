@@ -47,7 +47,7 @@ This will include:
 - Using **tools like Zeek, Suricata, and Kibana** to investigate threats
 - Automating **report generation and dashboard setup**
 
-For step-by-step instructions, refer to **`configuration.md`** (to be added soon).
+For step-by-step instructions, refer to [**`configuration.md`**](https://github.com/Padmja26/PCAP-Analysis-Lab-Security-Onion/blob/main/Configuration.md)
 
 
 Stay tuned for further updates and guides!
